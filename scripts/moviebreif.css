@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+#item1{
+position:absolute; left:0px; top:00px; width:720px; height:150px;
+}
+
+#item2{
+position:absolute; left:0px; top:145px; width:720px; height:150px;
+}
+
+#item3{
+position:absolute; left:0px; top:290px; width:720px; height:150px;
+}
+
+#item4{
+position:absolute; left:0px; top:435px; width:720px; height:150px;
+}
+
+#item5{
+position:absolute; left:0px; top:580px; width:720px; height:150px;
+}

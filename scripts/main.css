@@ -1,0 +1,177 @@
+@CHARSET "ISO-8859-1";
+
+#login{
+position:absolute; left:5px; top:10px; width:195px; height:120px;
+}
+#header{
+position:absolute; left:205px; top:10px; width:750px; height:120px;
+}
+#sidebar{
+position:absolute; left:5px; top:140px; width:195px; height:850px;
+}
+#content{
+position:absolute; left:205px; top:140px; width:750px; height:850px;
+}
+
+a:link {
+	color:#990099;
+}
+a:visited {
+	color:#990099;
+}
+a:hover {
+	color:#FF00FF;
+}
+a:active {
+	color:#990099;
+}
+
+body {
+	margin:0;
+	padding:0;
+}
+
+#bg {
+  	position: fixed; 
+  	top: -50%; 
+  	left: -50%; 
+  	width: 200%; 
+  	height: 200%;
+}
+
+#bg img {
+  	position: absolute; 
+  	top: 0; 
+  	left: 0; 
+  	right: 0; 
+  	bottom: 0; 
+  	margin: auto; 
+  	min-width: 50%;
+  	min-height: 50%;
+}
+
+.Artistic-Body-C {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size:19.0px; 
+    line-height:1.21em;
+}
+.myBody-P {
+	margin:0.0px 0.0px 12.0px 0.0px; 
+	text-align:center; 
+	font-weight:400;
+}
+.myBody-P-P0 {
+	margin:0.0px 0.0px 12.0px 0.0px; 
+	text-align:right; 
+	font-weight:400;
+}
+.myBody-C {
+	font-family: 'Bubblegum Sans', cursive; 
+	font-weight:700; 
+	color:#29016E; 
+	font-size:45.0px; 
+	line-height:1.38em;
+}
+.myNormal-C {
+	font-family: 'Bubblegum Sans', cursive; 
+	font-size:17.0px; 
+	line-height:1.23em;
+}
+.myNormal-P {
+    margin:0.0px 0.0px 0.0px 0.0px; 
+    text-align:left; 
+    font-weight:400;
+}
+.myBody-C-C0 {
+	font-family: 'Bubblegum Sans', cursive; 
+	font-weight:700; 
+	font-size:27.0px; 
+	line-height:1.41em;
+}
+.myBody-C-C1 {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight:bold;
+	font-size:19.0px; 
+	line-height:1.37em;
+}
+.myBody-C-C2 {
+	font-family:"Veranda MS", sans-serif; 
+	font-size:15.0px; 
+	line-height:1.3em;
+}
+.myBody-C-C3 {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight:bold;
+	font-size:23.0px; 
+	line-height:1.41em;
+}
+
+.Button1,.Button1:link,.Button1:visited {
+	background-image:url('../images/navbtn.png');
+	background-position:0px -43px;
+	text-decoration:none;
+	display:block;
+	position:absolute;}
+.Button1:focus {
+	outline-style:none;
+}
+.Button1:hover {
+	background-position:0px -86px;
+}
+.Button1 span,.Button1:link span,.Button1:visited span {
+	color:#ffffff;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight:bold;	
+	text-decoration:none;
+	text-align:center;
+	text-transform:none;
+	font-style:normal;
+	left:0px;
+	top:7px;
+	width:135px;
+	height:26px;
+	font-size:24px;
+	display:block;
+	position:absolute;
+	cursor:pointer;}
+.Button2,.Button2:link,.Button2:visited {
+	background-image:url('../images/navbtn.png');
+	background-position:0px 0px;
+	text-decoration:none;
+	display:block;
+	position:absolute;}
+.Button2:focus {
+	outline-style:none;
+}
+.Button2:hover {
+	background-position:0px -86px;
+}
+.Button2:active 
+	{background-position:0px -43px;
+}
+.Button2 span,.Button2:link span,.Button2:visited span {
+	color:#ffffff;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	text-transform:none;
+	font-style:normal;
+	left:0px;
+	top:7px;
+	width:135px;
+	height:26px;
+	font-size:24px;
+	display:block;
+	position:absolute;
+	cursor:pointer;
+}
+
+.Button3 { 
+	border:0;
+}
+
+.Default-Paragraph-Font-C {
+    font-family:"Verdana", sans-serif;
+}
+

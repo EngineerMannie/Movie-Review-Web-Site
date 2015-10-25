@@ -1,0 +1,26 @@
+a:link {
+	color:#c9d184;
+}
+a:visited {
+	color:#c9d184;
+}
+a:hover {
+	color:#c9d184;
+}
+a:active {
+	color:#c9d184;
+}
+
+.Body-P {
+    margin:0.0px 0.0px 12.0px 0.0px; 
+    text-align:left; 
+    font-weight:400;
+}
+.Normal-P {
+    margin:0.0px 0.0px 0.0px 0.0px; 
+    text-align:left; 
+    font-weight:400;
+}
+.Default-Paragraph-Font-C {
+    font-family:"Verdana", sans-serif;
+}

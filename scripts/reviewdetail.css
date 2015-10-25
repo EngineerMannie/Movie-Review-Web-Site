@@ -1,0 +1,53 @@
+@CHARSET "ISO-8859-1";
+
+#img1{
+position:absolute; left:10px; top:10px; width:144px; height:192px;
+}
+#img2{
+position:absolute; left:362px; top:10px; width:346px; height:192px;
+}
+#category{
+position:absolute; left:175px; top:40px; width:150px; height:40px;
+}
+#urate{
+position:absolute; left:175px; top:90px; width:150px; height:40px;
+}
+#runtime{
+position:absolute; left:175px; top:140px; width:150px; height:40px;
+}
+#filmname{
+position:absolute; left:10px; top:230px; width:430px; height:40px;
+}
+#releasedate{
+position:absolute; left:450px; top:235px; width:190px; height:35px;
+}
+#genre{
+position:absolute; left:10px; top:260px; width:400px; height:25px;
+}
+#director{
+position:absolute; left:10px; top:300px; width:680px; height:25px;
+}
+#starring{
+position:absolute; left:10px; top:340px; width:680px; height:25px;
+}
+#review{
+position:absolute; left:10px; top:380px; width:680px; height:500px;
+}
+
+.myNormal-P {
+    margin:0.0px 0.0px 0.0px 0.0px; 
+    text-align:left; 
+    font-weight:400;
+}
+
+.myBody-C-C1 {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight:bold;
+	font-size:18.0px; 
+	line-height:1.37em;
+}
+.myBody-C-C2 {
+	font-family:"Veranda MS", sans-serif; 
+	font-size:15.0px; 
+	line-height:1.3em;
+}
